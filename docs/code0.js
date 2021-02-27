@@ -1649,7 +1649,7 @@ gdjs.Main_32SceneCode.GDexplosionObjects2.length = 0;
 }{for(var i = 0, len = gdjs.Main_32SceneCode.GDgoldObjects2.length ;i < len;++i) {
     gdjs.Main_32SceneCode.GDgoldObjects2[i].setString("Gold: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(5)));
 }
-}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.mp3", false, 100, 1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.ogg", false, 100, 1);
 }
 { //Subevents
 gdjs.Main_32SceneCode.eventsList17(runtimeScene);} //End of subevents
@@ -1683,7 +1683,7 @@ gdjs.Main_32SceneCode.GDexplosionObjects2.length = 0;
 }{for(var i = 0, len = gdjs.Main_32SceneCode.GDgoldObjects2.length ;i < len;++i) {
     gdjs.Main_32SceneCode.GDgoldObjects2[i].setString("Gold: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(5)));
 }
-}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.mp3", false, 100, 1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.ogg", false, 100, 1);
 }
 { //Subevents
 gdjs.Main_32SceneCode.eventsList19(runtimeScene);} //End of subevents
@@ -1717,7 +1717,7 @@ gdjs.Main_32SceneCode.GDexplosionObjects2.length = 0;
 }{for(var i = 0, len = gdjs.Main_32SceneCode.GDgoldObjects2.length ;i < len;++i) {
     gdjs.Main_32SceneCode.GDgoldObjects2[i].setString("Gold: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(5)));
 }
-}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.mp3", false, 100, 1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "assets\\sound\\Explosion1.ogg", false, 100, 1);
 }
 { //Subevents
 gdjs.Main_32SceneCode.eventsList21(runtimeScene);} //End of subevents
@@ -5132,7 +5132,7 @@ for(var i = 0, len = gdjs.Main_32SceneCode.GDturret_95nameObjects2.length ;i < l
     gdjs.Main_32SceneCode.GDroundObjects2[i].setString("Round: " + gdjs.evtTools.common.getVariableString(runtimeScene.getVariables().getFromIndex(8)) + "/3");
 }
 }{gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 1);
-}{gdjs.evtTools.sound.playMusic(runtimeScene, "assets\\sound\\Netherplace_Looping.mp3", true, 50, 1);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "assets\\sound\\Netherplace_Looping.ogg", true, 60, 1);
 }
 { //Subevents
 gdjs.Main_32SceneCode.eventsList25(runtimeScene);} //End of subevents
