@@ -12800,11 +12800,11 @@ gdjs.Main_32SceneCode.conditionTrue_1.val = true && gdjs.Main_32SceneCode.condit
 
 
 {
-{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(18), "Top_1", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(19), "Top_2", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(20), "Top_3", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(21), "Top_4", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(22), "Top_5", gdjs.VariablesContainer.badVariable);
+{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_1", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(18)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_2", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(19)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_3", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(20)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_4", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(21)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_5", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(22)));
 }}
 
 }
@@ -12931,11 +12931,11 @@ gdjs.Main_32SceneCode.conditionTrue_1.val = true && gdjs.Main_32SceneCode.condit
 
 
 {
-{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(18), "Top_1", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(19), "Top_2", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(20), "Top_3", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(21), "Top_4", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.saveVariableToJSONFile(runtimeScene.getVariables().getFromIndex(22), "Top_5", gdjs.VariablesContainer.badVariable);
+{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_1", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(18)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_2", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(19)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_3", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(20)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_4", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(21)));
+}{gdjs.evtTools.storage.writeNumberInJSONFile("Top", "Top_5", gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(22)));
 }}
 
 }
@@ -18696,11 +18696,11 @@ for(var i = 0, len = gdjs.Main_32SceneCode.GDmain_95menu_95textObjects2.length ;
 for(var i = 0, len = gdjs.Main_32SceneCode.GDmain_95menuObjects2.length ;i < len;++i) {
     gdjs.Main_32SceneCode.GDmain_95menuObjects2[i].hide();
 }
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(18), "Top_1", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(19), "Top_2", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(20), "Top_3", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(21), "Top_4", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(22), "Top_5", gdjs.VariablesContainer.badVariable);
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_1", runtimeScene, runtimeScene.getVariables().getFromIndex(18));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_2", runtimeScene, runtimeScene.getVariables().getFromIndex(19));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_3", runtimeScene, runtimeScene.getVariables().getFromIndex(20));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_4", runtimeScene, runtimeScene.getVariables().getFromIndex(21));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_5", runtimeScene, runtimeScene.getVariables().getFromIndex(22));
 }{gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 1);
 }{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "assets\\sound\\Disco-Ants-Go-Clubbin_Looping.ogg", 0, true, 60, 1);
 }{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(0);

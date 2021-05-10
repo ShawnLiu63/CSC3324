@@ -1062,11 +1062,11 @@ for(var i = 0, len = gdjs.Menu_32SceneCode.GDPlayerBoxObjects1.length ;i < len;+
 for(var i = 0, len = gdjs.Menu_32SceneCode.GDclose_95button_95listObjects1.length ;i < len;++i) {
     gdjs.Menu_32SceneCode.GDclose_95button_95listObjects1[i].hide();
 }
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(4), "Top_1", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(5), "Top_2", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(6), "Top_3", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(7), "Top_4", gdjs.VariablesContainer.badVariable);
-}{gdjs.fileSystem.loadVariableFromJSONFile(runtimeScene.getVariables().getFromIndex(8), "Top_5", gdjs.VariablesContainer.badVariable);
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_1", runtimeScene, runtimeScene.getVariables().getFromIndex(4));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_2", runtimeScene, runtimeScene.getVariables().getFromIndex(5));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_3", runtimeScene, runtimeScene.getVariables().getFromIndex(6));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_4", runtimeScene, runtimeScene.getVariables().getFromIndex(7));
+}{gdjs.evtTools.storage.readNumberFromJSONFile("Top", "Top_5", runtimeScene, runtimeScene.getVariables().getFromIndex(8));
 }{runtimeScene.getGame().getVariables().getFromIndex(2).setNumber(gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(4)));
 }{runtimeScene.getGame().getVariables().getFromIndex(3).setNumber(gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(5)));
 }{runtimeScene.getGame().getVariables().getFromIndex(4).setNumber(gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(6)));
