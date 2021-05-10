@@ -121,17 +121,23 @@ var gdjs;
       return this._opacity;
     }
     setWrappingWidth(width) {
+      if (this._wrappingWidth === width)
+        return;
       this._wrappingWidth = width;
       this._renderer.updateWrappingWidth();
+      this.hitBoxesDirty = true;
     }
     getWrappingWidth() {
       return this._wrappingWidth;
     }
     setWordWrap(wordWrap) {
+      if (this._wordWrap === wordWrap)
+        return;
       this._wordWrap = wordWrap;
       this._renderer.updateWordWrap();
+      this.hitBoxesDirty = true;
     }
-    getWordWrap(wordWrap) {
+    getWordWrap() {
       return this._wordWrap;
     }
     getWidth() {

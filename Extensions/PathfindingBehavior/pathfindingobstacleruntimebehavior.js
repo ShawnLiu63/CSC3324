@@ -2,10 +2,12 @@ var gdjs;
 (function(gdjs2) {
   class PathfindingObstaclesManager {
     constructor(runtimeScene) {
-      this.x = 0;
-      this.y = 0;
-      this.radius = 0;
-      this._obstaclesHSHG = new gdjs2.HSHG.HSHG();
+      this._obstaclesRBush = new rbush(9, [
+        ".owner.getAABB().min[0]",
+        ".owner.getAABB().min[1]",
+        ".owner.getAABB().max[0]",
+        ".owner.getAABB().max[1]"
+      ]);
     }
     static getManager(runtimeScene) {
       if (!runtimeScene.pathfindingObstaclesManager) {
@@ -14,37 +16,23 @@ var gdjs;
       return runtimeScene.pathfindingObstaclesManager;
     }
     addObstacle(pathfindingObstacleBehavior) {
-      this._obstaclesHSHG.addObject(pathfindingObstacleBehavior);
+      this._obstaclesRBush.insert(pathfindingObstacleBehavior);
     }
     removeObstacle(pathfindingObstacleBehavior) {
-      this._obstaclesHSHG.removeObject(pathfindingObstacleBehavior);
+      this._obstaclesRBush.remove(pathfindingObstacleBehavior);
     }
     getAllObstaclesAround(x, y, radius, result) {
-      const vertex = new PathfindingObstaclesManager.Vertex(x, y, radius);
-      this._obstaclesHSHG.addObject(vertex);
-      this._obstaclesHSHG.queryForCollisionWith(vertex, result);
-      this._obstaclesHSHG.removeObject(vertex);
+      const searchArea = gdjs2.staticObject(PathfindingObstaclesManager.prototype.getAllObstaclesAround);
+      searchArea.minX = x - radius;
+      searchArea.minY = y - radius;
+      searchArea.maxX = x + radius;
+      searchArea.maxY = y + radius;
+      const nearbyPlatforms = this._obstaclesRBush.search(searchArea);
+      result.length = 0;
+      result.push.apply(result, nearbyPlatforms);
     }
   }
   gdjs2.PathfindingObstaclesManager = PathfindingObstaclesManager;
-  (function(PathfindingObstaclesManager2) {
-    class Vertex {
-      constructor(x, y, radius) {
-        this.x = x;
-        this.y = y;
-        this.radius = radius;
-        this.aabb = null;
-      }
-      getAABB() {
-        const rad = this.radius, x = this.x, y = this.y;
-        return this.aabb = {
-          min: [x - rad, y - rad],
-          max: [x + rad, y + rad]
-        };
-      }
-    }
-    PathfindingObstaclesManager2.Vertex = Vertex;
-  })(PathfindingObstaclesManager = gdjs2.PathfindingObstaclesManager || (gdjs2.PathfindingObstaclesManager = {}));
   class PathfindingObstacleRuntimeBehavior extends gdjs2.RuntimeBehavior {
     constructor(runtimeScene, behaviorData, owner) {
       super(runtimeScene, behaviorData, owner);
