@@ -497,7 +497,7 @@ gdjs.Menu_32SceneCode.GDcreditsBoxObjects1.length = k;for(var i = 0, k = 0, l = 
 gdjs.Menu_32SceneCode.GDclose_95button_95creditsObjects1.length = k;}if ( gdjs.Menu_32SceneCode.condition4IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition5IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12792308);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13308316);
 }
 }if ( gdjs.Menu_32SceneCode.condition5IsTrue_0.val ) {
 {
@@ -881,6 +881,8 @@ for(var i = 0, len = gdjs.Menu_32SceneCode.GDclose_95button_95achObjects1.length
 }{gdjs.evtTools.storage.readNumberFromJSONFile("Achievement", "ach_1", runtimeScene, runtimeScene.getVariables().getFromIndex(1));
 }{gdjs.evtTools.storage.readNumberFromJSONFile("Achievement", "ach_2", runtimeScene, runtimeScene.getVariables().getFromIndex(2));
 }{gdjs.evtTools.storage.readNumberFromJSONFile("Achievement", "ach_3", runtimeScene, runtimeScene.getVariables().getFromIndex(3));
+}{gdjs.evtTools.sound.stopMusicOnChannel(runtimeScene, 0);
+}{gdjs.evtTools.sound.playMusicOnChannel(runtimeScene, "assets\\sound\\Reaching-Altitude.ogg", 0, true, 60, 1);
 }
 { //Subevents
 gdjs.Menu_32SceneCode.eventsList1(runtimeScene);} //End of subevents
@@ -1036,7 +1038,7 @@ gdjs.Menu_32SceneCode.condition5IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition5IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition6IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12811404);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13327780);
 }
 }}
 }
@@ -1202,7 +1204,7 @@ gdjs.Menu_32SceneCode.condition5IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition5IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition6IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12815940);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13332524);
 }
 }}
 }
@@ -1377,7 +1379,7 @@ gdjs.Menu_32SceneCode.condition5IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition5IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition6IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12817940);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13334468);
 }
 }}
 }
@@ -1564,7 +1566,7 @@ gdjs.Menu_32SceneCode.condition5IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition5IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition6IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12819996);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13336524);
 }
 }}
 }
@@ -1625,7 +1627,7 @@ gdjs.Menu_32SceneCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition4IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12821404);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13337932);
 }
 }}
 }
@@ -1719,7 +1721,7 @@ gdjs.Menu_32SceneCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition4IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12823172);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13339700);
 }
 }}
 }
@@ -1825,7 +1827,7 @@ gdjs.Menu_32SceneCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableN
 }if ( gdjs.Menu_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Menu_32SceneCode.conditionTrue_1 = gdjs.Menu_32SceneCode.condition4IsTrue_0;
-gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(12824892);
+gdjs.Menu_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13341420);
 }
 }}
 }
