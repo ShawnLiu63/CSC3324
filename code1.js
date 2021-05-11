@@ -5037,7 +5037,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDupgradeObjects3.length;i<l;++i
 gdjs.Main_32SceneCode.GDupgradeObjects3.length = k;}if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition3IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13750364);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13756700);
 }
 }}
 }
@@ -5078,7 +5078,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.input.cursorOnObjec
 }if ( gdjs.Main_32SceneCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition2IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13762980);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13769316);
 }
 }if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
@@ -5122,7 +5122,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDupgradeObjects3.length;i<l;++i
 gdjs.Main_32SceneCode.GDupgradeObjects3.length = k;}if ( gdjs.Main_32SceneCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition2IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13776396);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13782732);
 }
 }if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
@@ -5166,7 +5166,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDupgradeObjects3.length;i<l;++i
 gdjs.Main_32SceneCode.GDupgradeObjects3.length = k;}if ( gdjs.Main_32SceneCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition2IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13789724);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13796060);
 }
 }if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
@@ -5210,7 +5210,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDupgradeObjects2.length;i<l;++i
 gdjs.Main_32SceneCode.GDupgradeObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition1IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition2IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13802604);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13808940);
 }
 }if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
@@ -7696,7 +7696,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDremoveObjects2.length;i<l;++i)
 gdjs.Main_32SceneCode.GDremoveObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition4IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13880356);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13886692);
 }
 }}
 }
@@ -7746,7 +7746,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDremoveObjects2.length;i<l;++i)
 gdjs.Main_32SceneCode.GDremoveObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition4IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13881812);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13888148);
 }
 }}
 }
@@ -7796,7 +7796,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDremoveObjects2.length;i<l;++i)
 gdjs.Main_32SceneCode.GDremoveObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition4IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13883260);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13889596);
 }
 }}
 }
@@ -7846,7 +7846,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDremoveObjects2.length;i<l;++i)
 gdjs.Main_32SceneCode.GDremoveObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition4IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13884748);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13891084);
 }
 }}
 }
@@ -7896,7 +7896,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDremoveObjects1.length;i<l;++i)
 gdjs.Main_32SceneCode.GDremoveObjects1.length = k;}if ( gdjs.Main_32SceneCode.condition3IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition4IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13886172);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13892508);
 }
 }}
 }
@@ -9363,7 +9363,7 @@ gdjs.Main_32SceneCode.GDenemyObjects4.length = k;}if (gdjs.Main_32SceneCode.cond
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.8, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9391,7 +9391,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9419,7 +9419,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.9, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9447,7 +9447,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.85, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9475,7 +9475,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.85, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9503,7 +9503,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_sub");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.8, "EnemyCreation_sub");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9531,7 +9531,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9559,7 +9559,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9587,7 +9587,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9615,7 +9615,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9643,7 +9643,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9671,7 +9671,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9699,7 +9699,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerE
 
 gdjs.Main_32SceneCode.condition0IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation_2");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation_2");
 }if (gdjs.Main_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Main_32SceneCode.GDspawningPointObjects2 */
 /* Reuse gdjs.Main_32SceneCode.GDenemyObjects2 */
@@ -9797,7 +9797,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13571572);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13893460);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -9846,7 +9846,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14244292);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13904876);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -9895,7 +9895,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13575548);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13916204);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -9944,7 +9944,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13581604);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13927308);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -9993,7 +9993,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13574788);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13938252);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -10042,7 +10042,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColl
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7345684);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13949364);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
@@ -10572,7 +10572,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.9, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 50;
@@ -10662,7 +10662,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.9, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -10752,7 +10752,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.8, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 80;
@@ -10842,7 +10842,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.8, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 50;
@@ -10935,7 +10935,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.8, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11028,7 +11028,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11121,7 +11121,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.2, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 80;
@@ -11211,7 +11211,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.65, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
@@ -11301,7 +11301,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.65, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11394,7 +11394,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.65, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11487,7 +11487,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11580,7 +11580,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.2, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 80;
@@ -11670,7 +11670,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.55, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
@@ -11760,7 +11760,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.55, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11853,7 +11853,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.55, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -11946,7 +11946,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 60;
@@ -12039,7 +12039,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.2, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 80;
@@ -12591,7 +12591,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.35, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
@@ -13044,7 +13044,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDstart_95new_95gameObjects2.len
 gdjs.Main_32SceneCode.GDstart_95new_95gameObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition3IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14116780);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14124236);
 }
 }}
 }
@@ -13101,7 +13101,7 @@ for(var i = 0, k = 0, l = gdjs.Main_32SceneCode.GDmain_95menuObjects2.length;i<l
 gdjs.Main_32SceneCode.GDmain_95menuObjects2.length = k;}if ( gdjs.Main_32SceneCode.condition2IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition3IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14128580);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14136036);
 }
 }}
 }
@@ -18765,7 +18765,7 @@ gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Main_32SceneCode.conditionTrue_1 = gdjs.Main_32SceneCode.condition1IsTrue_0;
-gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14150172);
+gdjs.Main_32SceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(14157628);
 }
 }}
 if (gdjs.Main_32SceneCode.condition1IsTrue_0.val) {
