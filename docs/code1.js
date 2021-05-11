@@ -10752,7 +10752,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.75, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 80;
@@ -11211,7 +11211,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.6, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
@@ -12129,7 +12129,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.4, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
@@ -12591,7 +12591,7 @@ gdjs.Main_32SceneCode.condition1IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition2IsTrue_0.val = false;
 gdjs.Main_32SceneCode.condition3IsTrue_0.val = false;
 {
-gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.2, "EnemyCreation");
+gdjs.Main_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.35, "EnemyCreation");
 }if ( gdjs.Main_32SceneCode.condition0IsTrue_0.val ) {
 {
 gdjs.Main_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(7)) < 100;
